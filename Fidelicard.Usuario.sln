@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fidelicard.Usuario", "Fidel
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{634FA327-9451-47AC-A5FD-5A55C5236587}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fidelicard.Usuario.UnitTests", "C:\Users\tiago\OneDrive\Área de Trabalho\Fidelicard.Usuario\Fidelicard.Usuario\Fidelicard.Usuario\Fidelicard.Usuario.UnitTests\Fidelicard.Usuario.UnitTests.csproj", "{8E3E2829-A452-42F2-878B-4EA0974FB109}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fidelicard.Usuario.Integration.Tests", "C:\Users\tiago\OneDrive\Área de Trabalho\Fidelicard.Usuario\Fidelicard.Usuario\Fidelicard.Usuario\Fidelicard.Usuario.Integration.Tests\Fidelicard.Usuario.Integration.Tests.csproj", "{F4F83D36-F779-438A-9539-308396580F93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fidelicard.Usuario.Integration.Tests", "C:\Users\tiago\OneDrive\Área de Trabalho\Fidelicard.Usuario\Fidelicard.Usuario\Fidelicard.Usuario\Fidelicard.Usuario.Integration.Tests\Fidelicard.Usuario.Integration.Tests.csproj", "{359253F7-53AD-4FD5-B079-FEC3D737869A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fidelicard.Usuario.UnitTests", "C:\Users\tiago\OneDrive\Área de Trabalho\Fidelicard.Usuario\Fidelicard.Usuario\Fidelicard.Usuario\Fidelicard.Usuario.UnitTests\Fidelicard.Usuario.UnitTests.csproj", "{2BEE1E32-AFF8-4BD4-A098-BE071AED56AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,21 +33,21 @@ Global
 		{676551CC-6122-4FFF-9E88-631FD10770A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{676551CC-6122-4FFF-9E88-631FD10770A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{676551CC-6122-4FFF-9E88-631FD10770A7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8E3E2829-A452-42F2-878B-4EA0974FB109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8E3E2829-A452-42F2-878B-4EA0974FB109}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8E3E2829-A452-42F2-878B-4EA0974FB109}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8E3E2829-A452-42F2-878B-4EA0974FB109}.Release|Any CPU.Build.0 = Release|Any CPU
-		{359253F7-53AD-4FD5-B079-FEC3D737869A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{359253F7-53AD-4FD5-B079-FEC3D737869A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{359253F7-53AD-4FD5-B079-FEC3D737869A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{359253F7-53AD-4FD5-B079-FEC3D737869A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F83D36-F779-438A-9539-308396580F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F83D36-F779-438A-9539-308396580F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F83D36-F779-438A-9539-308396580F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F83D36-F779-438A-9539-308396580F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEE1E32-AFF8-4BD4-A098-BE071AED56AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEE1E32-AFF8-4BD4-A098-BE071AED56AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEE1E32-AFF8-4BD4-A098-BE071AED56AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEE1E32-AFF8-4BD4-A098-BE071AED56AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{8E3E2829-A452-42F2-878B-4EA0974FB109} = {634FA327-9451-47AC-A5FD-5A55C5236587}
-		{359253F7-53AD-4FD5-B079-FEC3D737869A} = {634FA327-9451-47AC-A5FD-5A55C5236587}
+		{F4F83D36-F779-438A-9539-308396580F93} = {634FA327-9451-47AC-A5FD-5A55C5236587}
+		{2BEE1E32-AFF8-4BD4-A098-BE071AED56AD} = {634FA327-9451-47AC-A5FD-5A55C5236587}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4DF3DEEF-E1CB-4655-9789-91656DCBF05A}
